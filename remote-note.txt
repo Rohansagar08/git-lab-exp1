@@ -1,0 +1,2 @@
+This file was added from another working copy and pushed to GitHub.
+It demonstrates that git pull brings remote changes into the local repository.
