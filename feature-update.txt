@@ -1,0 +1,9 @@
+Feature Update Branch
+=====================
+
+This file was created on the feature-update branch.
+
+Changes in this branch:
+- Added a dedicated feature file
+- Updated the README with a branching section
+- Demonstrated commit, push, diff, and merge

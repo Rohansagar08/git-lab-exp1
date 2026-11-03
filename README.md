@@ -9,3 +9,8 @@ This repository demonstrates the basic Git and GitHub workflow:
 
 **Student:** Rohan Sagar  
 **GitHub:** Rohansagar08
+
+## Branching
+
+This section was added on the `feature-update` branch to demonstrate
+`git diff` and `git merge`.
