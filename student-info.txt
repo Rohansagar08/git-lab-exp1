@@ -5,3 +5,6 @@ GitHub user : Rohansagar08
 Experiment 1: Perform Git Operations Using GitHub and Visual Studio Code
 
 This file was created in the local working directory and tracked with Git.
+
+Git workflow practised in this experiment:
+  git status, git add, git commit, git push, git pull
