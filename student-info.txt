@@ -1,0 +1,7 @@
+Name        : Rohan Sagar
+Email       : rohan.s2@s.amity.edu
+GitHub user : Rohansagar08
+
+Experiment 1: Perform Git Operations Using GitHub and Visual Studio Code
+
+This file was created in the local working directory and tracked with Git.
